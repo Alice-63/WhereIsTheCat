@@ -1,4 +1,6 @@
-# pogaca-nerede-kart-oyunu
+A game with vuejs
+
+![](https://github.com/Alice-63/WhereIsCat/blob/main/whereiscat_vuejs.gif)
 
 > A Vue.js project
 
